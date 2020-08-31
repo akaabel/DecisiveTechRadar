@@ -1,19 +1,19 @@
 name,ring,quadrant,isNew,description
-Mikrotjenester,Adopt,Techniques,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
+Mikrotjenester,Adopt,Techniques,FALSE,
 RuleSpeak,Adopt,Techniques,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Docker/Docker-compose,Adopt,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Cloud Native,Adopt,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Kubernetes,Adopt,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-OpenShift,Trial,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Azure,Trial,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Google Cloud Platform,Trial,Platforms,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
+Docker/Docker-compose,Adopt,Platforms,FALSE,<p><strong><a href="https://www.docker.com">Docker</a></strong></p>
+Cloud Native,Adopt,Platforms,FALSE,<p><strong><a href="https://www.cncf.io">Cloud Native</a></strong></p>
+Kubernetes,Adopt,Platforms,FALSE,<p><strong><a href="https://kubernetes.io">Kubernetes</a></strong></p>
+OpenShift,Trial,Platforms,FALSE,<p><strong><a href="https://www.openshift.com">OpenShift</a></strong></p>
+Azure,Trial,Platforms,FALSE,<p><strong><a href="https://azure.microsoft.com/nb-no/">Microsoft Azure</a></strong></p>
+Google Cloud Platform,Trial,Platforms,FALSE,<p><strong><a href="https://cloud.google.com">RuleSpeak</a></strong></p>
 Blaze Advisor,Adopt,Platforms,FALSE,<p><strong><a href="https://www.fico.com/en/products/fico-blaze-advisor-decision-rules-management-system">Blaze Advisor</a></strong></p>
 Sparkling Logic SMARTS,Adopt,Platforms,FALSE,<p><strong><a href="https://www.sparklinglogic.com/smarts-decision-manager/">SMARTS Decision Manager</a></strong></p>
-IntelliJ,Adopt,Tools,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-VisualCode,Assess,Tools,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-jq/xq/yq,Assess,Tools,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Java,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Kotlin,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Javascript,Assess,languages-and-frameworks,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Python,Assess,languages-and-frameworks,FALSE,<p><strong><a href="http://www.rulespeak.com/no/">RuleSpeak</a></strong></p>
-Spring Boot,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="https://spring.io/projects/spring-boot">Spring Boot</a></strong>Brukes i NAV</p>
+IntelliJ,Adopt,Tools,FALSE,<p><strong><a href="https://www.jetbrains.com/idea/">IntelliJ</a></strong></p>
+VisualCode,Assess,Tools,FALSE,<p><strong><a href="https://code.visualstudio.com">Visual Code</a></strong></p>
+jq/xq/yq,Assess,Tools,FALSE,<p><strong><a href="https://stedolan.github.io/jq/">jq/xq/yq</a></strong></p>
+Java,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="https://www.java.com/en/">Java</a></strong></p>. 
+Kotlin,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="https://kotlinlang.org">Kotlin</a></strong></p>
+Javascript,Assess,languages-and-frameworks,FALSE,<p><strong><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></strong></p>
+Python,Assess,languages-and-frameworks,FALSE,<p><strong><a href="https://www.python.org">Python</a></strong></p>
+Spring Boot,Adopt,languages-and-frameworks,FALSE,<p><strong><a href="https://spring.io/projects/spring-boot">Spring Boot</a></strong>. Brukes i NAV</p>
